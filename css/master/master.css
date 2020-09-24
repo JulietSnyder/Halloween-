@@ -1,0 +1,20 @@
+.COLEMN {
+float left;
+padding 10px;
+
+}
+.left{
+width 25%;
+
+}
+
+.right{
+  width: 75%;
+}
+
+
+.rowafter {
+content: "";
+display table;
+clear: both;
+}
